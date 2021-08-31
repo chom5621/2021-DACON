@@ -12,7 +12,7 @@
 - 조식메뉴, 중식메뉴, 석식메뉴
 - 중식계, 석식계    
 
-### 3) 전처리 및 모델링
+### 3) [전처리 및 모델링](https://github.com/chom5621/2021-DACON/blob/1dcbf64ad2941ea1e2ca5a108bfe166269ceb686/%EC%A0%84%EC%B2%98%EB%A6%AC%20%EB%B0%8F%20%EB%AA%A8%EB%8D%B8%EB%A7%81.ipynb)
 - Feature Engineering (기본파생변수)
 - 내부 데이터 활용 (석식메뉴 없는 날, 특식 있는 날, 중식계/석식계 랭크)
 - 외부 데이터 활용 (공휴일 전후, 미세먼지, 기온, 강수적설량)
@@ -21,5 +21,4 @@
 ### 4) 팀원
 권가윤, 정서우, 정세은, 조문선
 
-### 5) 발표자료
-<https://chom5621.github.io/project/esaa/(2021-DACON)-%EA%B5%AC%EB%82%B4%EC%8B%9D%EB%8B%B9-%EC%8B%9D%EC%88%98-%EC%9D%B8%EC%9B%90-%EC%98%88%EC%B8%A1/>
+### 5) [발표자료](https://chom5621.github.io/project/esaa/(2021-DACON)-%EA%B5%AC%EB%82%B4%EC%8B%9D%EB%8B%B9-%EC%8B%9D%EC%88%98-%EC%9D%B8%EC%9B%90-%EC%98%88%EC%B8%A1/)
