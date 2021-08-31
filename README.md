@@ -1,7 +1,6 @@
 # 2021 DACON 구내식당 식수 인원 예측 AI 경진대회
 
 ![png](/assets/images/슬라이드1.png)
-<https://chom5621.github.io/project/esaa/(2021-DACON)-%EA%B5%AC%EB%82%B4%EC%8B%9D%EB%8B%B9-%EC%8B%9D%EC%88%98-%EC%9D%B8%EC%9B%90-%EC%98%88%EC%B8%A1/>
 
 ### 1) 주제
 #### 구내식당의 요일별 점심, 저녁식사를 먹는 인원을 예측
@@ -22,3 +21,6 @@
 
 ### 4) 팀원
 권가윤, 정서우, 정세은, 조문선
+
+### 5) 발표자료
+<https://chom5621.github.io/project/esaa/(2021-DACON)-%EA%B5%AC%EB%82%B4%EC%8B%9D%EB%8B%B9-%EC%8B%9D%EC%88%98-%EC%9D%B8%EC%9B%90-%EC%98%88%EC%B8%A1/>
