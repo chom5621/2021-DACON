@@ -6,7 +6,7 @@
 - 주최 : 한국토지주택공사
 - 주관 : 데이콘
 
-### 2) ![EDA](https://github.com/chom5621/2021-DACON/blob/1dcbf64ad2941ea1e2ca5a108bfe166269ceb686/EDA.ipynb)
+### 2) [EDA](https://github.com/chom5621/2021-DACON/blob/1dcbf64ad2941ea1e2ca5a108bfe166269ceb686/EDA.ipynb)
 - 일자 및 요일
 - 본사정원수, 본사휴가자수, 본사출장자수, 본사시간외근무명령서승인건수, 현본사소속재택근무자수
 - 조식메뉴, 중식메뉴, 석식메뉴
